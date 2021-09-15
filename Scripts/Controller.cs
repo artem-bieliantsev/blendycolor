@@ -34,7 +34,7 @@ public class Controller : MonoBehaviour
 
     public LevelParameters Level { get => _level; set => _level = value; }
     public int CompareValue { get => _compareValue; set => _compareValue = value; }
-    public Transform FruitParent { get => _ingredientParent; set => _ingredientParent = value; }
+    public Transform IngredientParent { get => _ingredientParent; set => _ingredientParent = value; }
     public Audio AudioManager { get => _audioManager; set => _audioManager = value; }
 
     private void Awake()
