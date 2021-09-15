@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ad69ffb0571d2648ad02fc3ef18dbdd, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  _fruitValue: 2
+  _ingredientPrefab:
+  - {fileID: 7643725773484704085, guid: b5eb19fc5ece55a4d91827d5867ccb8b, type: 3}
+  - {fileID: 8315439946682565162, guid: 622b557c524fe8948893b1837a7043b0, type: 3}
+  _visitor: {fileID: 6064424444283066422, guid: 26c98601719d3864da1339fe1d673a56, type: 3}
